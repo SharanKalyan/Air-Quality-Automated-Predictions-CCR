@@ -1,0 +1,14 @@
+
+This directory contains data and prediction codes of air quality historical data from the govt. website.
+
+1. historical_data_predictions.py - contains code for historical predictions. will output 600 rows of data which will be saved to ./Predictions_evals
+
+2. historical_sceduler.py - contains a function to scedule historical_data_predictions.py file.
+   (usually for every 2 hours) 
+
+3. historical_training.py - This file contains code to train the model for historical data. 
+
+4. sceduled_training.py - This file has codes to run the historical_training.py file 
+   (usually every 30 days)
+   
+   IF SERVER HAS RESTARTED, RUN FILES 2 (for 2 hour once predictions) ,4 (for training).
