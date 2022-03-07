@@ -35,8 +35,8 @@ The historical_sceduler.py will be run on the server, and the predictions will b
 
 Here are some samples of the probable outcomes and the actuals:
 
-![image](https://user-images.githubusercontent.com/20862520/157029455-5c6d8a2f-6523-49be-8fae-d2e1f89e0e44.png)
+![image](https://user-images.githubusercontent.com/20862520/157029950-4272244b-b079-428a-838e-0409709e24dc.png)
 
-![image](https://user-images.githubusercontent.com/20862520/157029487-b9c48b85-2578-4128-a0dc-9e1dee5fb9cc.png)
+![image](https://user-images.githubusercontent.com/20862520/157029923-f9b7549f-b03f-450e-ac8c-3b9c7905b7a2.png)
 
 ![image](https://user-images.githubusercontent.com/20862520/157029631-963e27fa-3de0-4974-b020-dc937285814a.png)
