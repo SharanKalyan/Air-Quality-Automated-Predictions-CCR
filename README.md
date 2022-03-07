@@ -31,3 +31,12 @@ The historical_sceduler.py will be run on the server, and the predictions will b
 3. Finally, the prediction_evals.ipynb notebook can be used to evaluate how accurate the predictions are! 
 
 4. It is important we follow the structure of the directories. 
+
+
+Here are some samples of the probable outcomes and the actuals:
+
+![image](https://user-images.githubusercontent.com/20862520/157029455-5c6d8a2f-6523-49be-8fae-d2e1f89e0e44.png)
+
+![image](https://user-images.githubusercontent.com/20862520/157029487-b9c48b85-2578-4128-a0dc-9e1dee5fb9cc.png)
+
+![image](https://user-images.githubusercontent.com/20862520/157029631-963e27fa-3de0-4974-b020-dc937285814a.png)
