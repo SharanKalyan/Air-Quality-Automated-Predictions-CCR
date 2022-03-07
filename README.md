@@ -50,5 +50,5 @@ Here are some samples of the probable outcomes and the actuals:
 
 
 # Temperature predictions
-![image](https://user-images.githubusercontent.com/20862520/157030543-101e0072-abe7-491a-9ba6-0e08b7a83674.png)
+![image](https://user-images.githubusercontent.com/20862520/157030927-01fe7c34-3b67-44d5-bcae-50b7b5f9c213.png)
 
