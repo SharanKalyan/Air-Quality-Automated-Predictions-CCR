@@ -42,3 +42,13 @@ Here are some samples of the probable outcomes and the actuals:
 ![image](https://user-images.githubusercontent.com/20862520/157029923-f9b7549f-b03f-450e-ac8c-3b9c7905b7a2.png)
 
 ![image](https://user-images.githubusercontent.com/20862520/157029631-963e27fa-3de0-4974-b020-dc937285814a.png)
+
+# PM2.5 predictions
+
+![image](https://user-images.githubusercontent.com/20862520/157030190-3d27ff81-cb4a-4b12-8add-d1d529fe3cca.png)
+
+![image](https://user-images.githubusercontent.com/20862520/157030238-306a6e03-bef5-4be9-92ac-ea9ab0e83944.png)
+
+# Temperature predictions
+![image](https://user-images.githubusercontent.com/20862520/157030543-101e0072-abe7-491a-9ba6-0e08b7a83674.png)
+
