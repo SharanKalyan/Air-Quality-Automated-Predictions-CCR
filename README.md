@@ -48,6 +48,8 @@ Here are some samples of the probable outcomes and the actuals:
 
 ![image](https://user-images.githubusercontent.com/20862520/157030699-1e0f7922-371a-4950-a0e9-864c2c16aff3.png)
 
+# NOX Predictions:
+![image](https://user-images.githubusercontent.com/20862520/157431536-69c93670-7c8d-4696-a81b-ba9c9ff77f1a.png)
 
 # Temperature predictions
 ![image](https://user-images.githubusercontent.com/20862520/157030927-01fe7c34-3b67-44d5-bcae-50b7b5f9c213.png)
