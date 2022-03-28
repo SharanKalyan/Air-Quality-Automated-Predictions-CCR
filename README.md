@@ -23,10 +23,10 @@ The historical_data_predictions.py file will take those weight files, do all the
 
 NOTE:
 1. The sceduled_training.py will automate the process of training. 
-This file will be running continuosly on the server and for every 30 days (or any time) the function will run automatically. 
+This file will be running continuosly on the server and for every 30 days (or any specific time interval for that matter) the function will run automatically. 
 
 2. The historical_sceduler.py will automate the process of predictions. 
-The historical_sceduler.py will be run on the server, and the predictions will be made every 2 hours. 
+The historical_sceduler.py will be run on the server, and the predictions is set to run the predictions every 2 hours. 
 
 3. Finally, the prediction_evals.ipynb notebook can be used to evaluate how accurate the predictions are! 
 
