@@ -7,7 +7,7 @@ The data is collected from a Govt. source. https://app.cpcbccr.com/ccr/#/caaqm-d
 The data contains,
 date (from jan1 2020 - feb 21 2022), station (velachery,perungudi,alandur,royapuram and kodungaiyur), time (24 data per day from 00:00 to 23:00), pm2.5 (target), pm10, nox (target), temperature (target), co (target).
 
-Here, I hav automated the entire process of the predictions for 4 different target variables (pm2.5, nox, temperature, co)
+Here, I have automated the entire process of the predictions for 4 different target variables (pm2.5, nox, temperature, co)
 
 There are 4 suporting files that i have used. 
 1. Historical_training.py
